@@ -35,7 +35,7 @@ export default class AnimatedImage extends Component {
                                 })
                             },
                         ],
-                    }, { width: '50%', height: '50%', position: 'absolute', }]}
+                    }, { width: '50%', height: '50%', position: 'absolute' }]}
             />
         )
     }
