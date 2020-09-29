@@ -1,0 +1,5 @@
+export const SAVE_INITIAL_ARRAY = 'SAVE_INITIAL_ARRAY';
+export const LOADING_MORE = 'LOADING_MORE';
+export const ALL_LOADED = 'ALL_LOADED';
+export const UPDATE_PAGE_NUMBER = 'UPDATE_PAGE_NUMBER';
+export const UPDATE_ARRAY = 'UPDATE_ARRAY';
